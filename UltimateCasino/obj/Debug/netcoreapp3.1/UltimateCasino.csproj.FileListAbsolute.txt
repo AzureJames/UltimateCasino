@@ -1,0 +1,13 @@
+C:\Users\azure\source\repos\UltimateCasino\UltimateCasino\bin\Debug\netcoreapp3.1\UltimateCasino.exe
+C:\Users\azure\source\repos\UltimateCasino\UltimateCasino\bin\Debug\netcoreapp3.1\UltimateCasino.deps.json
+C:\Users\azure\source\repos\UltimateCasino\UltimateCasino\bin\Debug\netcoreapp3.1\UltimateCasino.runtimeconfig.json
+C:\Users\azure\source\repos\UltimateCasino\UltimateCasino\bin\Debug\netcoreapp3.1\UltimateCasino.runtimeconfig.dev.json
+C:\Users\azure\source\repos\UltimateCasino\UltimateCasino\bin\Debug\netcoreapp3.1\UltimateCasino.dll
+C:\Users\azure\source\repos\UltimateCasino\UltimateCasino\bin\Debug\netcoreapp3.1\UltimateCasino.pdb
+C:\Users\azure\source\repos\UltimateCasino\UltimateCasino\obj\Debug\netcoreapp3.1\UltimateCasino.csprojAssemblyReference.cache
+C:\Users\azure\source\repos\UltimateCasino\UltimateCasino\obj\Debug\netcoreapp3.1\UltimateCasino.AssemblyInfoInputs.cache
+C:\Users\azure\source\repos\UltimateCasino\UltimateCasino\obj\Debug\netcoreapp3.1\UltimateCasino.AssemblyInfo.cs
+C:\Users\azure\source\repos\UltimateCasino\UltimateCasino\obj\Debug\netcoreapp3.1\UltimateCasino.csproj.CoreCompileInputs.cache
+C:\Users\azure\source\repos\UltimateCasino\UltimateCasino\obj\Debug\netcoreapp3.1\UltimateCasino.dll
+C:\Users\azure\source\repos\UltimateCasino\UltimateCasino\obj\Debug\netcoreapp3.1\UltimateCasino.pdb
+C:\Users\azure\source\repos\UltimateCasino\UltimateCasino\obj\Debug\netcoreapp3.1\UltimateCasino.genruntimeconfig.cache
